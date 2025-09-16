@@ -1,7 +1,104 @@
 ---
-title: "simple_quarto_website"
+title: "An Introduction to Stardew Valley"
+author: "Kylie King"
+format: html
+toc: true 
+bibliography: reference.bib
+
 ---
 
-This is a Quarto website.
+## The Premise
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Stardew Valley[^1] by ConcernedApe is one of my favorite games. The premise of the game is that you, the main character, are gifted a mysterious letter by your grandfather before he passes away. He says to only use it when you are tired of the modern world. 
+
+
+
+>If you're reading this, you must be in dire need of a change. The same thing happened to me, long ago. I'd lost sight of what mattered most in life... real connections with other people and nature. So I dropped everything and moved to the place I truly belong. - Grandfather
+
+
+
+Tired of a corporate, dead-end job, your character reads this letter and finds the deed to a farm in Stardew Valley, left to you by your grandfather.
+
+
+
+Throughout the course of the game, you build the farm, raise crops and animals, befriend the locals of nearby Pelican Town, explore the mines, and try to build a better life for yourself. Stardew Valley is considered a 'cozy game,' with low-stress gameplay, soothing graphics, and a healthy dose of escapism. It also has a beautiful soundtrack, written by the developer ConcernedApe, and is an integral part of the Stardew Valley Experience. [@galloway2019soundwalking]
+
+
+
+[^1]: Check out the [official Stardew Valley website](https://www.stardewvalley.net/)
+
+---
+
+## Tips for Farming
+
+My favorite part of the game is the farming. I enjoy selecting crops for each season, running crop rotations, and creating the most efficient farm layout. The following sections will go through some basic things you should know about farming, so you can start setting up the systems you enjoy!
+
+
+### Tools
+<div style="display:flex; flex-direction:row; justify-content: space-between;">
+<div style="flex:1; margin-right: 1em;">
+You start the game with a handful of tools. These tools are upgradeable, which will dramatically increase your productivity. The tools are:
+</div>
+<div style="flex:1; margin-left: 1em;">
+- Watering can
+- Hoe
+- Scythe
+- Axe
+- Pickaxe
+</div>
+</div>
+
+### Leveling Up
+There are five skills in Stardew Valley: Farming, Fishing, Foraging, Mining, and Combat. There are 10 levels in each, gained by taking actions related to the skill. Eacg time you level up, you get a little perk!
+
+At levels 5 and 10, you get to choose which perk you gain, and adopt a "Profession." Here is an example of the level progression in Farming:
+
+```{mermaid}
+flowchart LR
+  A[Level 3] --> B[Level 4]
+  B --> C{Level 5}
+  C --> D[Rancher Profession]
+  C --> E[Tiller Profession]
+```
+
+
+### Crops
+There are roughly 20 crops for each season, excluding winter. This table shows my favorite crops per season.
+
+| Season     | Favorite Fruit | Favorite Vegetable |
+|------------|---------------:|-------------------:|
+| Spring     | Strawberries   | Potatoes           |
+| Summer     | Blueberries    | Red Cabbage        |
+| Fall       | Cranberries    | Pumpkins           |
+| Winter     | Powder Melon   | Winter Root        |
+
+A common formula for players to use on their own is the Minimum Gold per Day (MGPD) formula, which evaluates the profit value of a crop based on it's max harvests (MH), its sell price per harvest (S), its seed price (SP), and it's growing days/growth rate (GD): $MGPD = \frac{(MH × S)-SP}{GD}$
+
+---
+
+When crops are harvested, they gain a **quality** score. This dictates how much gold you get from selling the crop, and has some other gameplay mechanics. It is calcualted in the game with the following equation:
+
+$$
+Quality = 0.2 \frac{FL}{10} + 0.2B \frac{FL+2}{12} + 0.01
+$$
+
+<small>(FL = Farming level, and B = Fertilizer Boost)</small>
+
+---
+
+## Farm Example: Meadowlands
+On the left is an example of the Meadowlands Farm map at the beginning of the game. The farm takes a lot of work to clear, till, and build from the ground up. On the right is Reddit user memulias' Meadowlands Farm, with buildings, pathways, and house upgrades!
+
+![Professional Image 1](images/image1.jpg){width=45% style="display:inline-block; margin-right:2%"}
+![Professional Image 2](images/image2.jpg){width=45% style="display:inline-block;"}
+
+---
+
+## Farm Over Time
+This is Reddit user VileMeanss' video of their farm, where they took a screen capture during every season to make a log of it's progress. This is a great example of how your farm can evolve. The graphics are slightly different than base Stardew Valley, because this user has a modpack.
+
+<video width="100%" controls>
+  <source src="images/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+

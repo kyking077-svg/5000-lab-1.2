@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An Introduction to Stardew Valley",
+    "section": "",
+    "text": "Stardew Valley1 by ConcernedApe is one of my favorite games. The premise of the game is that you, the main character, are gifted a mysterious letter by your grandfather before he passes away. He says to only use it when you are tired of the modern world.\n\nIf you’re reading this, you must be in dire need of a change. The same thing happened to me, long ago. I’d lost sight of what mattered most in life… real connections with other people and nature. So I dropped everything and moved to the place I truly belong. - Grandfather\n\nTired of a corporate, dead-end job, your character reads this letter and finds the deed to a farm in Stardew Valley, left to you by your grandfather.\nThroughout the course of the game, you build the farm, raise crops and animals, befriend the locals of nearby Pelican Town, explore the mines, and try to build a better life for yourself. Stardew Valley is considered a ‘cozy game,’ with low-stress gameplay, soothing graphics, and a healthy dose of escapism. It also has a beautiful soundtrack, written by the developer ConcernedApe, and is an integral part of the Stardew Valley Experience. (Galloway 2019)"
+  },
+  {
+    "objectID": "index.html#text-in-two-columns",
+    "href": "index.html#text-in-two-columns",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Text in Two Columns",
+    "text": "Text in Two Columns\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.\n\n\nSed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta."
+  },
+  {
+    "objectID": "index.html#bulleted-list-example",
+    "href": "index.html#bulleted-list-example",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Bulleted List Example",
+    "text": "Bulleted List Example\n\nFirst item in a list\nSecond item with bold text\nThird item with italic text\nFourth item with inline code"
+  },
+  {
+    "objectID": "index.html#non-inline-equation",
+    "href": "index.html#non-inline-equation",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Non Inline Equation",
+    "text": "Non Inline Equation\n\\[\n\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\n\\]\n\\[\nQuality = 0.2 \\frac{FL}{10} + 0.2B \\frac{FL+2}{12} + 0.01\n\\]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nCheck out the official Stardew Valley website↩︎"
+  },
+  {
+    "objectID": "index.html#the-premise",
+    "href": "index.html#the-premise",
+    "title": "An Introduction to Stardew Valley",
+    "section": "",
+    "text": "Stardew Valley1 by ConcernedApe is one of my favorite games. The premise of the game is that you, the main character, are gifted a mysterious letter by your grandfather before he passes away. He says to only use it when you are tired of the modern world.\n\nIf you’re reading this, you must be in dire need of a change. The same thing happened to me, long ago. I’d lost sight of what mattered most in life… real connections with other people and nature. So I dropped everything and moved to the place I truly belong. - Grandfather\n\nTired of a corporate, dead-end job, your character reads this letter and finds the deed to a farm in Stardew Valley, left to you by your grandfather.\nThroughout the course of the game, you build the farm, raise crops and animals, befriend the locals of nearby Pelican Town, explore the mines, and try to build a better life for yourself. Stardew Valley is considered a ‘cozy game,’ with low-stress gameplay, soothing graphics, and a healthy dose of escapism. It also has a beautiful soundtrack, written by the developer ConcernedApe, and is an integral part of the Stardew Valley Experience. (Galloway 2019)"
+  },
+  {
+    "objectID": "index.html#tips-for-farming",
+    "href": "index.html#tips-for-farming",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Tips for Farming",
+    "text": "Tips for Farming\nMy favorite part of the game is the farming. I enjoy selecting crops for each season, running crop rotations, and creating the most efficient farm layout. The following sections will go through some basic things you should know about farming, so you can start setting up the systems you enjoy!\n\nTools\n\n\nYou start the game with a handful of tools. These tools are upgradeable, which will dramatically increase your productivity. The tools are:\n\n\n\nWatering can\nHoe\nScythe\nAxe\nPickaxe\n\n\n\n\n\nLeveling Up\nThere are five skills in Stardew Valley: Farming, Fishing, Foraging, Mining, and Combat. There are 10 levels in each, gained by taking actions related to the skill. Eacg time you level up, you get a little perk!\nAt levels 5 and 10, you get to choose which perk you gain, and adopt a “Profession.” Here is an example of the level progression in Farming:\n\n\n\n\nflowchart LR\n  A[Level 3] --&gt; B[Level 4]\n  B --&gt; C{Level 5}\n  C --&gt; D[Rancher Profession]\n  C --&gt; E[Tiller Profession]\n\n\n\n\n\n\n\nCrops\nThere are roughly 20 crops for each season, excluding winter. This table shows my favorite crops per season.\n\n\n\nSeason\nFavorite Fruit\nFavorite Vegetable\n\n\n\n\nSpring\nStrawberries\nPotatoes\n\n\nSummer\nBlueberries\nRed Cabbage\n\n\nFall\nCranberries\nPumpkins\n\n\nWinter\nPowder Melon\nWinter Root\n\n\n\nA common formula for players to use on their own is the Minimum Gold per Day (MGPD) formula, which evaluates the profit value of a crop based on it’s max harvests (MH), its sell price per harvest (S), its seed price (SP), and it’s growing days/growth rate (GD): \\(MGPD = \\frac{(MH × S)-SP}{GD}\\)\n\nWhen crops are harvested, they gain a quality score. This dictates how much gold you get from selling the crop, and has some other gameplay mechanics. It is calcualted in the game with the following equation:\n\\[\nQuality = 0.2 \\frac{FL}{10} + 0.2B \\frac{FL+2}{12} + 0.01\n\\]\n(FL = Farming level, and B = Fertilizer Boost)"
+  },
+  {
+    "objectID": "index.html#farm-example-meadowlands",
+    "href": "index.html#farm-example-meadowlands",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Farm Example: Meadowlands",
+    "text": "Farm Example: Meadowlands\nOn the left is an example of the Meadowlands Farm map at the beginning of the game. The farm takes a lot of work to clear, till, and build from the ground up. On the right is Reddit user memulias’ Meadowlands Farm, with buildings, pathways, and house upgrades!"
+  },
+  {
+    "objectID": "index.html#farm-over-time",
+    "href": "index.html#farm-over-time",
+    "title": "An Introduction to Stardew Valley",
+    "section": "Farm Over Time",
+    "text": "Farm Over Time\nThis is Reddit user VileMeanss’ video of their farm, where they took a screen capture during every season to make a log of it’s progress. This is a great example of how your farm can evolve. The graphics are slightly different than base Stardew Valley, because this user has a modpack.\n\n\nYour browser does not support the video tag."
+  }
+]
